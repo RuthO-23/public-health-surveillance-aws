@@ -1,5 +1,3 @@
-# public-health-surveillance-aws
-
 # Public Health Surveillance Pipeline (CDC → AWS → Dashboard)
 
 ## Project Overview
